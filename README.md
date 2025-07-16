@@ -1,6 +1,6 @@
 # CleanArch
 
-Aplicação em .Net 8 Web API no padrão arquitetural CQRS, com os princípios da Clean Architecture, que visa a separação das operações de leitura (queries) e escrita (commands) do sistema. 
+Aplicação em .Net 8 Web API no padrão arquitetural CQRS, que visa a separação das operações de leitura (queries) e escrita (commands) do sistema. Também com os princípios da Clean Architecture para deixar o projeto mais limpo.
  
 Junto ao CQRS, temos o MediatR, que ajuda a implementar a comunicação entre comandos, manipuladores de comandos, consultas e manipuladores de consultas, visando maior desacoplamento.
 
