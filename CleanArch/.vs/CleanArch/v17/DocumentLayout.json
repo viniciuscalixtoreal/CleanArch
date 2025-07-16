@@ -1,0 +1,181 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\vinic\\source\\repos\\RestWithAsp-Net\\RestWithAsp-Net\\CleanArch\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E9529A60-5D67-4CB4-B7F2-7EE75E4ABF8A}|CleanArch.Application\\CleanArch.Application.csproj|c:\\users\\vinic\\source\\repos\\restwithasp-net\\restwithasp-net\\cleanarch\\cleanarch.application\\members\\commands\\createmembercommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E9529A60-5D67-4CB4-B7F2-7EE75E4ABF8A}|CleanArch.Application\\CleanArch.Application.csproj|solutionrelative:cleanarch.application\\members\\commands\\createmembercommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9529A60-5D67-4CB4-B7F2-7EE75E4ABF8A}|CleanArch.Application\\CleanArch.Application.csproj|c:\\users\\vinic\\source\\repos\\restwithasp-net\\restwithasp-net\\cleanarch\\cleanarch.application\\members\\notifications\\membercreatedsmshandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E9529A60-5D67-4CB4-B7F2-7EE75E4ABF8A}|CleanArch.Application\\CleanArch.Application.csproj|solutionrelative:cleanarch.application\\members\\notifications\\membercreatedsmshandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9529A60-5D67-4CB4-B7F2-7EE75E4ABF8A}|CleanArch.Application\\CleanArch.Application.csproj|c:\\users\\vinic\\source\\repos\\restwithasp-net\\restwithasp-net\\cleanarch\\cleanarch.application\\members\\notifications\\membercreatedemailhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E9529A60-5D67-4CB4-B7F2-7EE75E4ABF8A}|CleanArch.Application\\CleanArch.Application.csproj|solutionrelative:cleanarch.application\\members\\notifications\\membercreatedemailhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9529A60-5D67-4CB4-B7F2-7EE75E4ABF8A}|CleanArch.Application\\CleanArch.Application.csproj|c:\\users\\vinic\\source\\repos\\restwithasp-net\\restwithasp-net\\cleanarch\\cleanarch.application\\members\\notifications\\membercreatednotification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E9529A60-5D67-4CB4-B7F2-7EE75E4ABF8A}|CleanArch.Application\\CleanArch.Application.csproj|solutionrelative:cleanarch.application\\members\\notifications\\membercreatednotification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5043C92B-C530-46C0-9ECE-01649676B150}|CleanArch.CrossCutting\\CleanArch.CrossCutting.csproj|c:\\users\\vinic\\source\\repos\\restwithasp-net\\restwithasp-net\\cleanarch\\cleanarch.crosscutting\\dependencies\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5043C92B-C530-46C0-9ECE-01649676B150}|CleanArch.CrossCutting\\CleanArch.CrossCutting.csproj|solutionrelative:cleanarch.crosscutting\\dependencies\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9529A60-5D67-4CB4-B7F2-7EE75E4ABF8A}|CleanArch.Application\\CleanArch.Application.csproj|c:\\users\\vinic\\source\\repos\\restwithasp-net\\restwithasp-net\\cleanarch\\cleanarch.application\\members\\commands\\validations\\validationbehavior.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E9529A60-5D67-4CB4-B7F2-7EE75E4ABF8A}|CleanArch.Application\\CleanArch.Application.csproj|solutionrelative:cleanarch.application\\members\\commands\\validations\\validationbehavior.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9529A60-5D67-4CB4-B7F2-7EE75E4ABF8A}|CleanArch.Application\\CleanArch.Application.csproj|c:\\users\\vinic\\source\\repos\\restwithasp-net\\restwithasp-net\\cleanarch\\cleanarch.application\\members\\commands\\validations\\createmembercommandvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E9529A60-5D67-4CB4-B7F2-7EE75E4ABF8A}|CleanArch.Application\\CleanArch.Application.csproj|solutionrelative:cleanarch.application\\members\\commands\\validations\\createmembercommandvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9529A60-5D67-4CB4-B7F2-7EE75E4ABF8A}|CleanArch.Application\\CleanArch.Application.csproj|c:\\users\\vinic\\source\\repos\\restwithasp-net\\restwithasp-net\\cleanarch\\cleanarch.application\\cleanarch.application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{E9529A60-5D67-4CB4-B7F2-7EE75E4ABF8A}|CleanArch.Application\\CleanArch.Application.csproj|solutionrelative:cleanarch.application\\cleanarch.application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DFF0F65D-009B-4383-A918-4A8C0DB7E88E}|CleanArch.API\\CleanArch.API.csproj|c:\\users\\vinic\\source\\repos\\restwithasp-net\\restwithasp-net\\cleanarch\\cleanarch.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DFF0F65D-009B-4383-A918-4A8C0DB7E88E}|CleanArch.API\\CleanArch.API.csproj|solutionrelative:cleanarch.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DFF0F65D-009B-4383-A918-4A8C0DB7E88E}|CleanArch.API\\CleanArch.API.csproj|c:\\users\\vinic\\source\\repos\\restwithasp-net\\restwithasp-net\\cleanarch\\cleanarch.api\\filters\\customexceptionfilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DFF0F65D-009B-4383-A918-4A8C0DB7E88E}|CleanArch.API\\CleanArch.API.csproj|solutionrelative:cleanarch.api\\filters\\customexceptionfilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MemberCreatedSMSHandler.cs",
+              "DocumentMoniker": "C:\\Users\\vinic\\source\\repos\\RestWithAsp-Net\\RestWithAsp-Net\\CleanArch\\CleanArch.Application\\Members\\Notifications\\MemberCreatedSMSHandler.cs",
+              "RelativeDocumentMoniker": "CleanArch.Application\\Members\\Notifications\\MemberCreatedSMSHandler.cs",
+              "ToolTip": "C:\\Users\\vinic\\source\\repos\\RestWithAsp-Net\\RestWithAsp-Net\\CleanArch\\CleanArch.Application\\Members\\Notifications\\MemberCreatedSMSHandler.cs",
+              "RelativeToolTip": "CleanArch.Application\\Members\\Notifications\\MemberCreatedSMSHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-16T15:56:55.221Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MemberCreatedEmailHandler.cs",
+              "DocumentMoniker": "C:\\Users\\vinic\\source\\repos\\RestWithAsp-Net\\RestWithAsp-Net\\CleanArch\\CleanArch.Application\\Members\\Notifications\\MemberCreatedEmailHandler.cs",
+              "RelativeDocumentMoniker": "CleanArch.Application\\Members\\Notifications\\MemberCreatedEmailHandler.cs",
+              "ToolTip": "C:\\Users\\vinic\\source\\repos\\RestWithAsp-Net\\RestWithAsp-Net\\CleanArch\\CleanArch.Application\\Members\\Notifications\\MemberCreatedEmailHandler.cs",
+              "RelativeToolTip": "CleanArch.Application\\Members\\Notifications\\MemberCreatedEmailHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAABkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-16T15:53:10.839Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MemberCreatedNotification.cs",
+              "DocumentMoniker": "C:\\Users\\vinic\\source\\repos\\RestWithAsp-Net\\RestWithAsp-Net\\CleanArch\\CleanArch.Application\\Members\\Notifications\\MemberCreatedNotification.cs",
+              "RelativeDocumentMoniker": "CleanArch.Application\\Members\\Notifications\\MemberCreatedNotification.cs",
+              "ToolTip": "C:\\Users\\vinic\\source\\repos\\RestWithAsp-Net\\RestWithAsp-Net\\CleanArch\\CleanArch.Application\\Members\\Notifications\\MemberCreatedNotification.cs",
+              "RelativeToolTip": "CleanArch.Application\\Members\\Notifications\\MemberCreatedNotification.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-16T15:51:54.686Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ValidationBehavior.cs",
+              "DocumentMoniker": "C:\\Users\\vinic\\source\\repos\\RestWithAsp-Net\\RestWithAsp-Net\\CleanArch\\CleanArch.Application\\Members\\Commands\\Validations\\ValidationBehavior.cs",
+              "RelativeDocumentMoniker": "CleanArch.Application\\Members\\Commands\\Validations\\ValidationBehavior.cs",
+              "ToolTip": "C:\\Users\\vinic\\source\\repos\\RestWithAsp-Net\\RestWithAsp-Net\\CleanArch\\CleanArch.Application\\Members\\Commands\\Validations\\ValidationBehavior.cs",
+              "RelativeToolTip": "CleanArch.Application\\Members\\Commands\\Validations\\ValidationBehavior.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-16T15:32:25.66Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CleanArch.Application.csproj",
+              "DocumentMoniker": "C:\\Users\\vinic\\source\\repos\\RestWithAsp-Net\\RestWithAsp-Net\\CleanArch\\CleanArch.Application\\CleanArch.Application.csproj",
+              "RelativeDocumentMoniker": "CleanArch.Application\\CleanArch.Application.csproj",
+              "ToolTip": "C:\\Users\\vinic\\source\\repos\\RestWithAsp-Net\\RestWithAsp-Net\\CleanArch\\CleanArch.Application\\CleanArch.Application.csproj",
+              "RelativeToolTip": "CleanArch.Application\\CleanArch.Application.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-07-16T15:19:31.341Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\vinic\\source\\repos\\RestWithAsp-Net\\RestWithAsp-Net\\CleanArch\\CleanArch.API\\Program.cs",
+              "RelativeDocumentMoniker": "CleanArch.API\\Program.cs",
+              "ToolTip": "C:\\Users\\vinic\\source\\repos\\RestWithAsp-Net\\RestWithAsp-Net\\CleanArch\\CleanArch.API\\Program.cs",
+              "RelativeToolTip": "CleanArch.API\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-16T15:08:29.276Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "CustomExceptionFilter.cs",
+              "DocumentMoniker": "C:\\Users\\vinic\\source\\repos\\RestWithAsp-Net\\RestWithAsp-Net\\CleanArch\\CleanArch.API\\Filters\\CustomExceptionFilter.cs",
+              "RelativeDocumentMoniker": "CleanArch.API\\Filters\\CustomExceptionFilter.cs",
+              "ToolTip": "C:\\Users\\vinic\\source\\repos\\RestWithAsp-Net\\RestWithAsp-Net\\CleanArch\\CleanArch.API\\Filters\\CustomExceptionFilter.cs",
+              "RelativeToolTip": "CleanArch.API\\Filters\\CustomExceptionFilter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-16T15:01:42.685Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CreateMemberCommand.cs",
+              "DocumentMoniker": "C:\\Users\\vinic\\source\\repos\\RestWithAsp-Net\\RestWithAsp-Net\\CleanArch\\CleanArch.Application\\Members\\Commands\\CreateMemberCommand.cs",
+              "RelativeDocumentMoniker": "CleanArch.Application\\Members\\Commands\\CreateMemberCommand.cs",
+              "ToolTip": "C:\\Users\\vinic\\source\\repos\\RestWithAsp-Net\\RestWithAsp-Net\\CleanArch\\CleanArch.Application\\Members\\Commands\\CreateMemberCommand.cs",
+              "RelativeToolTip": "CleanArch.Application\\Members\\Commands\\CreateMemberCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-16T14:57:20.24Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DependencyInjection.cs",
+              "DocumentMoniker": "C:\\Users\\vinic\\source\\repos\\RestWithAsp-Net\\RestWithAsp-Net\\CleanArch\\CleanArch.CrossCutting\\Dependencies\\DependencyInjection.cs",
+              "RelativeDocumentMoniker": "CleanArch.CrossCutting\\Dependencies\\DependencyInjection.cs",
+              "ToolTip": "C:\\Users\\vinic\\source\\repos\\RestWithAsp-Net\\RestWithAsp-Net\\CleanArch\\CleanArch.CrossCutting\\Dependencies\\DependencyInjection.cs",
+              "RelativeToolTip": "CleanArch.CrossCutting\\Dependencies\\DependencyInjection.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAAACwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-16T14:56:26.965Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CreateMemberCommandValidator.cs",
+              "DocumentMoniker": "C:\\Users\\vinic\\source\\repos\\RestWithAsp-Net\\RestWithAsp-Net\\CleanArch\\CleanArch.Application\\Members\\Commands\\Validations\\CreateMemberCommandValidator.cs",
+              "RelativeDocumentMoniker": "CleanArch.Application\\Members\\Commands\\Validations\\CreateMemberCommandValidator.cs",
+              "ToolTip": "C:\\Users\\vinic\\source\\repos\\RestWithAsp-Net\\RestWithAsp-Net\\CleanArch\\CleanArch.Application\\Members\\Commands\\Validations\\CreateMemberCommandValidator.cs",
+              "RelativeToolTip": "CleanArch.Application\\Members\\Commands\\Validations\\CreateMemberCommandValidator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAABiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-16T14:50:01.035Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+C:\Users\vinic\source\repos\RestWithAsp-Net\RestWithAsp-Net\CleanArch\CleanArch.Application\bin\Debug\net8.0\CleanArch.Application.deps.json
+C:\Users\vinic\source\repos\RestWithAsp-Net\RestWithAsp-Net\CleanArch\CleanArch.Application\bin\Debug\net8.0\CleanArch.Application.dll
+C:\Users\vinic\source\repos\RestWithAsp-Net\RestWithAsp-Net\CleanArch\CleanArch.Application\bin\Debug\net8.0\CleanArch.Application.pdb
+C:\Users\vinic\source\repos\RestWithAsp-Net\RestWithAsp-Net\CleanArch\CleanArch.Application\bin\Debug\net8.0\CleanArch.Domain.dll
+C:\Users\vinic\source\repos\RestWithAsp-Net\RestWithAsp-Net\CleanArch\CleanArch.Application\bin\Debug\net8.0\CleanArch.Domain.pdb
+C:\Users\vinic\source\repos\RestWithAsp-Net\RestWithAsp-Net\CleanArch\CleanArch.Application\obj\Debug\net8.0\CleanArch.Application.csproj.AssemblyReference.cache
+C:\Users\vinic\source\repos\RestWithAsp-Net\RestWithAsp-Net\CleanArch\CleanArch.Application\obj\Debug\net8.0\CleanArch.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vinic\source\repos\RestWithAsp-Net\RestWithAsp-Net\CleanArch\CleanArch.Application\obj\Debug\net8.0\CleanArch.Application.AssemblyInfoInputs.cache
+C:\Users\vinic\source\repos\RestWithAsp-Net\RestWithAsp-Net\CleanArch\CleanArch.Application\obj\Debug\net8.0\CleanArch.Application.AssemblyInfo.cs
+C:\Users\vinic\source\repos\RestWithAsp-Net\RestWithAsp-Net\CleanArch\CleanArch.Application\obj\Debug\net8.0\CleanArch.Application.csproj.CoreCompileInputs.cache
+C:\Users\vinic\source\repos\RestWithAsp-Net\RestWithAsp-Net\CleanArch\CleanArch.Application\obj\Debug\net8.0\CleanArch.Application.sourcelink.json
+C:\Users\vinic\source\repos\RestWithAsp-Net\RestWithAsp-Net\CleanArch\CleanArch.Application\obj\Debug\net8.0\CleanArc.054EF71E.Up2Date
+C:\Users\vinic\source\repos\RestWithAsp-Net\RestWithAsp-Net\CleanArch\CleanArch.Application\obj\Debug\net8.0\CleanArch.Application.dll
+C:\Users\vinic\source\repos\RestWithAsp-Net\RestWithAsp-Net\CleanArch\CleanArch.Application\obj\Debug\net8.0\refint\CleanArch.Application.dll
+C:\Users\vinic\source\repos\RestWithAsp-Net\RestWithAsp-Net\CleanArch\CleanArch.Application\obj\Debug\net8.0\CleanArch.Application.pdb
+C:\Users\vinic\source\repos\RestWithAsp-Net\RestWithAsp-Net\CleanArch\CleanArch.Application\obj\Debug\net8.0\ref\CleanArch.Application.dll
